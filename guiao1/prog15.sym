@@ -1,0 +1,19 @@
+GAS LISTING prog15.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog15.s:1      *ABS*:0000000000000001 UP
+            prog15.s:2      *ABS*:0000000000000000 DOWN
+            prog15.s:7      .text:0000000000000000 main
+            prog15.s:16     .text:000000000000001c while
+            prog15.s:63     .text:00000000000000dc wait
+            prog15.s:38     .text:0000000000000070 if1
+            prog15.s:41     .text:0000000000000084 if2
+            prog15.s:44     .text:0000000000000094 endif
+            prog15.s:45     .text:0000000000000094 if3
+            prog15.s:49     .text:00000000000000ac if4
+            prog15.s:52     .text:00000000000000b4 endw
+            prog15.s:66     .text:00000000000000ec for
+            prog15.s:69     .text:0000000000000100 endfor
+
+NO UNDEFINED SYMBOLS
