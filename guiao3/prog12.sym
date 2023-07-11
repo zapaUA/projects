@@ -1,0 +1,16 @@
+GAS LISTING prog12.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog12.s:1      *ABS*:000000000000bf88 SFR_BASE_HI
+            prog12.s:2      *ABS*:0000000000006040 TRISB
+            prog12.s:3      *ABS*:0000000000006050 PORTB
+            prog12.s:4      *ABS*:0000000000006060 LATB
+            prog12.s:5      *ABS*:0000000000006100 TRISE
+            prog12.s:6      *ABS*:0000000000006110 PORTE
+            prog12.s:7      *ABS*:0000000000006120 LATE
+            prog12.s:13     .text:0000000000000000 main
+            prog12.s:24     .text:0000000000000020 while
+            prog12.s:34     .text:000000000000003c delay
+
+NO UNDEFINED SYMBOLS
