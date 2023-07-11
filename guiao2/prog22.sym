@@ -1,0 +1,16 @@
+GAS LISTING prog22.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog22.s:1      *ABS*:000000000000000c resetCoreTimer
+            prog22.s:2      *ABS*:000000000000000b readCoreTimer
+            prog22.s:3      *ABS*:0000000000000006 printInt
+            prog22.s:4      *ABS*:0000000000000005 readInt10
+            prog22.s:9      .text:0000000000000000 main
+            prog22.s:14     .text:000000000000000c while1
+            prog22.s:40     .text:0000000000000050 delay
+            prog22.s:34     .text:0000000000000044 end
+            prog22.s:51     .text:000000000000007c enddelay
+            prog22.s:44     .text:0000000000000060 while
+
+NO UNDEFINED SYMBOLS
